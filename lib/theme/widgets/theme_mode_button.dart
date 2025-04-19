@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
-import 'package:syuosyuo_player/theme/models/app_theme_mode_provider.dart';
+import 'package:syuosyuo_player_dev/theme/models/app_theme_mode_provider.dart';
 
 /// ライトモード/ダークモード切り替えボタン
 class ThemeModeButton extends ConsumerWidget {

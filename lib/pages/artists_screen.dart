@@ -2,11 +2,11 @@ import 'package:flutter/material.dart';
 import 'package:flutter_hooks/flutter_hooks.dart';
 import 'package:gap/gap.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
-import 'package:syuosyuo_player/data/data.dart';
-import 'package:syuosyuo_player/gen/assets.gen.dart';
-import 'package:syuosyuo_player/provider/data_provider.dart';
-import 'package:syuosyuo_player/router.dart';
-import 'package:syuosyuo_player/utils/debouncer.dart';
+import 'package:syuosyuo_player_dev/data/data.dart';
+import 'package:syuosyuo_player_dev/gen/assets.gen.dart';
+import 'package:syuosyuo_player_dev/provider/data_provider.dart';
+import 'package:syuosyuo_player_dev/router.dart';
+import 'package:syuosyuo_player_dev/utils/debouncer.dart';
 
 class ArtistsScreen extends HookConsumerWidget {
   const ArtistsScreen({super.key});

@@ -7,9 +7,9 @@ import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:flutter_web_plugins/flutter_web_plugins.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:responsive_framework/responsive_framework.dart';
-import 'package:syuosyuo_player/gen/assets.gen.dart';
-import 'package:syuosyuo_player/theme/models/app_theme_mode_provider.dart';
-import 'package:syuosyuo_player/theme/widgets/app_theme.dart';
+import 'package:syuosyuo_player_dev/gen/assets.gen.dart';
+import 'package:syuosyuo_player_dev/theme/models/app_theme_mode_provider.dart';
+import 'package:syuosyuo_player_dev/theme/widgets/app_theme.dart';
 
 import 'router.dart';
 

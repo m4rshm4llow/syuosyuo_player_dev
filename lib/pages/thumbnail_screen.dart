@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
-import 'package:syuosyuo_player/data/enum.dart';
-import 'package:syuosyuo_player/provider/data_provider.dart';
-import 'package:syuosyuo_player/router.dart';
+import 'package:syuosyuo_player_dev/data/enum.dart';
+import 'package:syuosyuo_player_dev/provider/data_provider.dart';
+import 'package:syuosyuo_player_dev/router.dart';
 
 /// 歌枠サムネ一覧
 class ThumbnailScreen extends HookConsumerWidget {

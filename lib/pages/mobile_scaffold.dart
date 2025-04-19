@@ -6,11 +6,11 @@ import 'package:gap/gap.dart';
 import 'package:go_router/go_router.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:intl/intl.dart';
-import 'package:syuosyuo_player/gen/assets.gen.dart';
-import 'package:syuosyuo_player/pages/main_scaffold.dart';
-import 'package:syuosyuo_player/provider/data_provider.dart';
-import 'package:syuosyuo_player/router.dart';
-import 'package:syuosyuo_player/theme/widgets/theme_mode_button.dart';
+import 'package:syuosyuo_player_dev/gen/assets.gen.dart';
+import 'package:syuosyuo_player_dev/pages/main_scaffold.dart';
+import 'package:syuosyuo_player_dev/provider/data_provider.dart';
+import 'package:syuosyuo_player_dev/router.dart';
+import 'package:syuosyuo_player_dev/theme/widgets/theme_mode_button.dart';
 import 'package:url_launcher/link.dart';
 
 /// モバイル用のホーム画面

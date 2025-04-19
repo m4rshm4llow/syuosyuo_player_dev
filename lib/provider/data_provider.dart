@@ -3,9 +3,9 @@ import 'dart:convert';
 import 'package:flutter/services.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
-import 'package:syuosyuo_player/data/data.dart';
-import 'package:syuosyuo_player/data/enum.dart';
-import 'package:syuosyuo_player/gen/assets.gen.dart';
+import 'package:syuosyuo_player_dev/data/data.dart';
+import 'package:syuosyuo_player_dev/data/enum.dart';
+import 'package:syuosyuo_player_dev/gen/assets.gen.dart';
 
 part 'data_provider.g.dart';
 

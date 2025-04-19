@@ -6,7 +6,7 @@ import 'package:gap/gap.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:pointer_interceptor/pointer_interceptor.dart';
 import 'package:responsive_framework/responsive_framework.dart';
-import 'package:syuosyuo_player/provider/data_provider.dart';
+import 'package:syuosyuo_player_dev/provider/data_provider.dart';
 import 'package:youtube_player_iframe/youtube_player_iframe.dart';
 
 class WatchScreen extends HookConsumerWidget {

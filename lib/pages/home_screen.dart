@@ -4,9 +4,9 @@ import 'package:gap/gap.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:intl/intl.dart';
 import 'package:responsive_framework/responsive_framework.dart';
-import 'package:syuosyuo_player/gen/assets.gen.dart';
-import 'package:syuosyuo_player/provider/data_provider.dart';
-import 'package:syuosyuo_player/router.dart';
+import 'package:syuosyuo_player_dev/gen/assets.gen.dart';
+import 'package:syuosyuo_player_dev/provider/data_provider.dart';
+import 'package:syuosyuo_player_dev/router.dart';
 
 class HomeScreen extends HookConsumerWidget {
   const HomeScreen({super.key});

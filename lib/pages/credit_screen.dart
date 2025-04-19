@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_linkify/flutter_linkify.dart';
 import 'package:gap/gap.dart';
-import 'package:syuosyuo_player/gen/assets.gen.dart';
+import 'package:syuosyuo_player_dev/gen/assets.gen.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class CreditScreen extends StatelessWidget {

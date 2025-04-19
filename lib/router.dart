@@ -2,17 +2,17 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
 import 'package:go_router/go_router.dart';
-import 'package:syuosyuo_player/gen/assets.gen.dart';
-import 'package:syuosyuo_player/pages/achives_screen.dart';
-import 'package:syuosyuo_player/pages/artists_screen.dart';
-import 'package:syuosyuo_player/pages/credit_screen.dart';
-import 'package:syuosyuo_player/pages/home_screen.dart';
-import 'package:syuosyuo_player/pages/main_scaffold.dart';
-import 'package:syuosyuo_player/pages/search_screen.dart';
-import 'package:syuosyuo_player/pages/songs_screen.dart';
-import 'package:syuosyuo_player/pages/thumbnail_screen.dart';
-import 'package:syuosyuo_player/pages/tool_screen.dart';
-import 'package:syuosyuo_player/pages/watch_screen.dart';
+import 'package:syuosyuo_player_dev/gen/assets.gen.dart';
+import 'package:syuosyuo_player_dev/pages/achives_screen.dart';
+import 'package:syuosyuo_player_dev/pages/artists_screen.dart';
+import 'package:syuosyuo_player_dev/pages/credit_screen.dart';
+import 'package:syuosyuo_player_dev/pages/home_screen.dart';
+import 'package:syuosyuo_player_dev/pages/main_scaffold.dart';
+import 'package:syuosyuo_player_dev/pages/search_screen.dart';
+import 'package:syuosyuo_player_dev/pages/songs_screen.dart';
+import 'package:syuosyuo_player_dev/pages/thumbnail_screen.dart';
+import 'package:syuosyuo_player_dev/pages/tool_screen.dart';
+import 'package:syuosyuo_player_dev/pages/watch_screen.dart';
 
 part 'router.g.dart';
 

@@ -3,9 +3,9 @@ import 'package:flutter_hooks/flutter_hooks.dart';
 import 'package:gap/gap.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:intl/intl.dart';
-import 'package:syuosyuo_player/data/enum.dart';
-import 'package:syuosyuo_player/provider/data_provider.dart';
-import 'package:syuosyuo_player/router.dart';
+import 'package:syuosyuo_player_dev/data/enum.dart';
+import 'package:syuosyuo_player_dev/provider/data_provider.dart';
+import 'package:syuosyuo_player_dev/router.dart';
 
 class AchivesScreen extends HookConsumerWidget {
   const AchivesScreen({super.key});
